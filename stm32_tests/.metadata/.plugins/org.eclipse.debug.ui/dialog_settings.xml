@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.debug.ui.LAUNCH_CONFIGURATIONS_DIALOG_SECTION">
+		<item key="org.eclipse.debug.ui.DIALOG_SASH_WEIGHTS_1" value="381"/>
+		<item key="org.eclipse.debug.ui.DIALOG_SASH_WEIGHTS_2" value="618"/>
+		<item key="org.eclipse.debug.ui.EXPANDED_NODES" value=", org.eclipse.ui.externaltools.ProgramLaunchConfigurationType, com.st.stm32cube.ide.mcu.debug.launch.launchConfigurationType, org.eclipse.cdt.debug.gdbjtag.launchConfigurationType, "/>
+		<item key="DIALOG_WIDTH" value="1318"/>
+		<item key="DIALOG_HEIGHT" value="1082"/>
+		<item key="DIALOG_FONT_NAME" value="1|Fira Sans|10.0|0|GTK|1|"/>
+	</section>
+	<section name="org.eclipse.debug.ui.LAUNCH_CONFIGURATION_PROPERTIES_DIALOG_SECTION">
+		<item key="DIALOG_WIDTH" value="816"/>
+		<item key="DIALOG_HEIGHT" value="776"/>
+		<item key="DIALOG_FONT_NAME" value="1|Fira Sans|10.0|0|GTK|1|"/>
+	</section>
+</section>

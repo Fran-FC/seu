@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.ui.externaltools.ProgramLaunchConfigurationType">
+    <stringAttribute key="org.eclipse.ui.externaltools.ATTR_LOCATION" value="/home/fran/muiinf/seu/stm32_tests/xpack-qemu-arm-6.2.0-2/bin/qemu-system-gnuarmeclipse"/>
+    <stringAttribute key="org.eclipse.ui.externaltools.ATTR_TOOL_ARGUMENTS" value="--board STM32F4-Discovery --mcu STM32F407VG -d unimp,guest_errors -s -S --semihosting-config enable=on,target=native --image seminario1.elf"/>
+    <stringAttribute key="org.eclipse.ui.externaltools.ATTR_WORKING_DIRECTORY" value="${workspace_loc:/seminario1/Debug}"/>
+</launchConfiguration>
